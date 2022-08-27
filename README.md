@@ -7,26 +7,47 @@
  activ
 
 ├── activ-bom                             -- BOM 公共版本控制模块
+<br>
 |
+<br>
 ├── activ-common                     -- 基础模块
+<br>
 |
+<br>
 ├── activ-entity                           -- 公共实体模块
+<br>
 |
+<br>
 ├── activ-shuffle                         -- 数据落地模块 [XXXX]
+<br>
 |    └── 对应功能
+<br>
 |           └─ 数据接入、清洗、写入数据库、载入redis
+<br>
 |
+<br>
 ├── activ-handle                         -- 活动处理模块 [XXXX]   (暂废)
+<br>
 |    └── 对应功能
+<br>
 |           └─ 活动处理
+<br>
 |
+<br>
 ├── activ-operation                    -- 活动处理模块 [XXXX]
+<br>
 |    └── 对应功能
+<br>
 |           └─ 活动处理
+<br>
 |
+<br>
 └── activ-notify                           -- 消费通知模块 [XXXX]
+<br>
      └── 对应功能
+<br>
              └─ 通知下游（外联）平台
+<br>
 
 
 
